@@ -1,3 +1,6 @@
 hello form master
 Master branch change
 Feature branch change
+
+
+echo -e "hello form master\nMaster branch change\nFeature branch change" > app.txt
