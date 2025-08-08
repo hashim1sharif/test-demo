@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 another bad line
-=======
-original file
->>>>>>> e0bc337 (test commit)
